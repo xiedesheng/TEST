@@ -6,7 +6,7 @@ class List extends Component {
     render () {
         return (
             <div className = "page list">
-                list
+                list xiedesheng
             </div>
     )
     }
